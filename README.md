@@ -1,7 +1,6 @@
 # Pull-Request-Template
 
-### In order to make it easier for your IAs to grade assignments, please follow this template closely
-### These are ***REQUIREMENTS***
+### ***REQUIREMENTS*** for submitting deliverables
 
 ## Create a PULL REQUEST from forked repo
   1. Navigate to the original repository where you created your fork.
