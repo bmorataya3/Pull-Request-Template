@@ -47,7 +47,7 @@ Let us know how you're feeling about the content or any questions that you may s
 
 ## Google Classroom
 ### **Be sure to copy the URL from your pull request and submit as a link in Google Classroom.**
-    1. Log into [Google classroom](https://classroom.google.com/u/0/c/NTgzNTk0OTgxNzk0)
+    1. Click the Google classroom link at the top of the slack classroom channel
     2. Click the assignmentand then > View assignment.
     3. To attach an item:
         -click Add Link 
