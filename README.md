@@ -44,16 +44,7 @@ You can copy and paste the template below to use in your pull request submission
 Let us know how you're feeling about the content or any questions that you may still have. If you had trouble with this homework, let us know what you had trouble with. (Be as specific as possible!)
 ```
 
-## Google Classroom
-### **Be sure to copy the URL from your pull request and submit as a link in Google Classroom.**
-    1. Click the Google classroom link at the top of the slack classroom channel
-    2. Click the assignmentand then > View assignment.
-    3. To attach an item:
-        -click Add Link 
-        -enter the URL from your pull request 
-        -click Add
-    4. Click Turn In and confirm.
-       The status of the assignment changes to Turned in.
+
 
 ### **If your pull request does not follow this format, it will not be graded.**
-Deliverables are due the next day during the week and on Monday if deliverable was given on Friday.
+Deliverables are due the next day during the week and on Monday if deliverable was given on Friday. 
